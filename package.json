@@ -1,0 +1,25 @@
+{
+  "name": "bob-the-builder-slackbot",
+  "version": "0.0.666",
+  "description": "Can he build it?",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^3.12.2",
+    "octokit": "^2.0.14"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/bob-the-builder-slackbot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "slack",
+    "bolt"
+  ]
+}
