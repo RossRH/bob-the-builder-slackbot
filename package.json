@@ -8,13 +8,14 @@
   },
   "dependencies": {
     "@slack/bolt": "^3.12.2",
+    "aws-sdk": "^2.1302.0",
     "octokit": "^2.0.14"
   },
   "engines": {
     "node": "14.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/bob-the-builder-slackbot"
+    "url": "https://github.com/RossRH/bob-the-builder-slackbot"
   },
   "license": "MIT",
   "keywords": [
